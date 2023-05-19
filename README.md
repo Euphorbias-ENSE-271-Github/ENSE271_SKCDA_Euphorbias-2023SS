@@ -1,5 +1,5 @@
 # ENSE 271 GROUP PROJECT
-#### Saskatchewan Career Development Association (SKCDA) wants a new website that looks good, is easy to use, and has important features.
+#### Saskatchewan Career Development Association (SKCDA) wants the website that looks good, is easy to use, and has important features.
 
 
 
