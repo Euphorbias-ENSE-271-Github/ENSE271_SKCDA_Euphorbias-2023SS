@@ -18,6 +18,8 @@ Seonyu Park
 4. User Story Map
 5. Customers Note
 
+### Empathy Mappings
+Empathy Mappings are visuals that provide insights into users' attitudes and behaviours, making them a valuable tool for our team to understand the users better.
 
 ### Problem description
 
