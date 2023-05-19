@@ -21,7 +21,7 @@ Seonyu Park
 ### Empathy Mappings
 Empathy Mappings are visuals that provide insights into users' attitudes and behaviours, making them a valuable tool for our team to understand the users better.
 
-## Affinity Diagramming Documents
+### Affinity Diagramming Documents
 An effective grouping method that draws meaningful conclusions from subjective and scattered information obtained from users.
 
 ### Problem description
