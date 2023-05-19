@@ -13,13 +13,16 @@ Seonyu Park
 
 ## Contents
 1. Empathy Mappings
-2. Affinity Diagramming Document
+2. Affinity Diagramming Documents
 3. Insight Document
 4. User Story Map
 5. Customers Note
 
 ### Empathy Mappings
 Empathy Mappings are visuals that provide insights into users' attitudes and behaviours, making them a valuable tool for our team to understand the users better.
+
+## Affinity Diagramming Documents
+An effective grouping method that draws meaningful conclusions from subjective and scattered information obtained from users.
 
 ### Problem description
 
