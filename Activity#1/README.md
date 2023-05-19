@@ -30,3 +30,6 @@ Insight charts help us comprehend the requirements of users and the reasons behi
 
 ### User Story Map
 The User Story Map visually represents how the user interacts with the website from their perspective. It helps our team gain a better understanding of users.
+
+### Customer Note
+There are several customer check-in feedbacks.
