@@ -1,11 +1,26 @@
-# ENSE271_SKCDA_Euphorbias-2023SS
+# Activity #1 
 
-**Team Members**
-Ethan Goski
+**Group Name:**
+Euphorbias
+
+**Team Members:**
+
+Ethan Goski 
+
 Emembong Umoh
-Seonyu Park
 
-**Problem description**
+Seonyu Park 
+
+## Contents
+1. Empathy Mappings
+2. Affinity Diagramming Document
+3. Insight Document
+4. User Story Map
+5. Customers Note
+
+
+### Problem description
+
 The SKCDA seeks a visually appealing and user-friendly website design focusing on membership. As a voluntary sector organization, their lack of knowledge about web design has hindered their progress. They have identified several features that require improvement.
 
 1. User-friendly navigation that facilitates easy access to member resources, a member-only networking section, and a resource-sharing section for CDPs.
