@@ -1,7 +1,0 @@
-Customer Notes:
-
-Parts of the empathy map could be split to avoid confusion
-
-Focus of Story map should be changed from what users do to more of what the website should do
-
-Description of what improvements should be made was accurate and should be the focus of our website design
