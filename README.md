@@ -29,7 +29,7 @@ StoriesOnBoard, Figma, GitHub
     .
     ├── StoryMaps                # User Story Maps 
     ├── customer_notes           # the feedback from our meeting with the customer
-    ├── docs                     # initial diagrams, chart and pdf document from activity #1
+    ├── docs                     # initial diagrams and chart document from activity #1
     ├── lo_fi                    # lo_fi prototyping from activity #2
     └── README.md
 
