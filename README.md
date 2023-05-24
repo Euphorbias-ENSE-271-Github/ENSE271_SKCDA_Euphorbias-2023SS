@@ -19,7 +19,7 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 - [x] add Customer feedback from 1st check-in
 - [x] add Customer feedback from 2nd check-in
 - [x] add Low-fidelity prototype
-    - [ ] add Low-fidelity prototype design ideas in PDF form
+    - [x] add Low-fidelity prototype design ideas in PDF form
 - [x] add Site map
 
 ## Technology
