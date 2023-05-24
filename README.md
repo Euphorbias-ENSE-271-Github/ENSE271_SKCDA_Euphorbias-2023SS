@@ -10,17 +10,17 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 * [Directory](#directory)
 
 ## Status
-- [x] add Empathy mapping
-- [x] add Affinity diagramming document
-- [x] add Initial Insights needs chart 
+- [x] add [Empathy mapping](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
+- [x] add [Affinity diagramming document](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
+- [x] add [Initial Insights needs chart](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
     - [ ] update Insights needs chart 
-- [x] add Initial User story map
-    - [x] add Evolved User story map
-- [x] add Customer feedback from 1st check-in
-- [x] add Customer feedback from 2nd check-in
-- [x] add Low-fidelity prototype
-    - [x] add Low-fidelity prototype design ideas in PDF form
-- [x] add Site map
+- [x] add [Initial User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
+    - [x] add [Evolved User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
+- [x] add [Customer feedback from 1st check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
+- [x] add [Customer feedback from 2nd check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
+- [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
+    - [x] add [Low-fidelity prototype design ideas in PDF form](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
+- [x] add [Site map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
 
 ## Technology
 StoriesOnBoard, Figma, GitHub
