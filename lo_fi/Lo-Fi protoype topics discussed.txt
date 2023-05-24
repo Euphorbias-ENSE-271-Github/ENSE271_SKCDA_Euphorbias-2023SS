@@ -1,0 +1,17 @@
+Assignment 2 Notes on topic explored in lo-fi prototype:
+
+Some of the Topics explored and used in the lo-fi prototype were using North American cultural and logical design with the most
+important information being on the top and left to gather the attention of the reader.
+
+As well attention to what the SKCDA wanted in their design (being a focus on Membership) led to the perceived Utility and Usability 
+of including a link to Join in the footer and in various other places so no matter which page a potential member/someone browsing 
+the website was on when browsing the website they would never stray far from the ability to join the SKCDA as a member. 
+
+Another aspect of human centered design was to use icons in the lo-fi design that actually correlated to what the icons would do 
+(i.e. email icons to signify emails). 
+
+Physical constraints were also taken into account with design elements not 
+having any additional training elements needed to understand what they do.
+
+As well, an element of gestalt, similarity was taken into account with the header and footer having much of the same elements 
+to allow for a sense of familiarity to be acquired and to not confuse the user.
