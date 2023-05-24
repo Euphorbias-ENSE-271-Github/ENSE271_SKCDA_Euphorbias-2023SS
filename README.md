@@ -10,7 +10,7 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 * [Directory](#directory)
 
 ## Status
-- [x] add Empathy mapping(#https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
+- [x] add Empathy mapping
 - [x] add Affinity diagramming document
 - [x] add Initial Insights needs chart 
     - [ ] update Insights needs chart 
