@@ -34,6 +34,6 @@ StoriesOnBoard, Figma, GitHub
     ├── customer_notes           # the feedback from our meeting with the customer
     ├── docs                     # initial diagrams and chart document from activity #1
     ├── lo_fi                    # lo_fi prototyping from activity #2
-    ├── Hifi                     # lo_fi prototyping from activity #3
+    ├── Hifi                     # hi_fi prototyping from activity #3
     └── README.md
 
