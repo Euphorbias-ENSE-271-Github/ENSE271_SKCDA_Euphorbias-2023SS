@@ -21,9 +21,13 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 - [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
     - [x] add [Low-fidelity prototype design ideas in PDF form](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
 - [x] add [Site map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
-- [x] add [High-fidelity prototype .fig File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
-- [x] add [HFP .pdf File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
+- [x] add [hifi_prototype.pdf File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
+- [x] add [hifi_prototype_fig File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
 - [x] add [Formative Usability Questionnaire](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
+- [x] add [Customer_Feedback_from 3rd check-in]([https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
+- [x] add [User Story Map-Jun.2nd](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
+- [x] add [Hi-Fi Linkage to Human-Centered Design](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
+
 
 ## Technology
 StoriesOnBoard, Figma, GitHub
