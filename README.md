@@ -13,7 +13,6 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 - [x] add [Empathy mapping](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
 - [x] add [Affinity diagramming document](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
 - [x] add [Initial Insights needs chart](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
-    - [ ] update Insights needs chart 
 - [x] add [Initial User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
     - [x] add [Evolved User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
 - [x] add [Customer feedback from 1st check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
@@ -28,10 +27,13 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 - [x] add [User Story Map-Jun.2nd](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
 - [x] add [Hi-Fi Linkage to Human-Centered Design](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Hifi.)
 - [x] add [Discussion & Analysis of Usability Data](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
+- [x] add [Project Report](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
+- [x] add [Customer Feedback from 4th check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
+- [x] add  [WordPress Backup File - databass only](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Backup) 
 
 
 ## Technology
-StoriesOnBoard, Figma, GitHub
+StoriesOnBoard, Figma, GitHub, WordPress
 
 ## Directory
     .
@@ -40,5 +42,6 @@ StoriesOnBoard, Figma, GitHub
     ├── docs                     # initial diagrams and chart document from activity #1
     ├── lo_fi                    # lo_fi prototyping from activity #2
     ├── Hifi                     # hi_fi prototyping from activity #3
+    ├── Backup                   # Wordpress backup file
     └── README.md
 
