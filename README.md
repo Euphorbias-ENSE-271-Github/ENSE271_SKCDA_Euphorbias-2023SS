@@ -17,7 +17,7 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
     - [x] add [Evolved User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
 - [x] add [Customer feedback from 1st check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
 - [x] add [Customer feedback from 2nd check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
-- [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype
+- [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype)
     - [x] add [Low-fidelity prototype design ideas in PDF form](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype)
 - [x] add [Site map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype)
 - [x] add [hifi_prototype.pdf File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/High_Fidelity_Prototype)
