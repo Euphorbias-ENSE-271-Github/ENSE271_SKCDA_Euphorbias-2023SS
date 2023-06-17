@@ -17,9 +17,9 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
     - [x] add [Evolved User story map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/StoryMaps)
 - [x] add [Customer feedback from 1st check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
 - [x] add [Customer feedback from 2nd check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
-- [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
-    - [x] add [Low-fidelity prototype design ideas in PDF form](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
-- [x] add [Site map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/lo_fi)
+- [x] add [Low-fidelity prototype](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype
+    - [x] add [Low-fidelity prototype design ideas in PDF form](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype)
+- [x] add [Site map](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Low_Fidelity_Prototype)
 - [x] add [hifi_prototype.pdf File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/High_Fidelity_Prototype)
 - [x] add [hifi_prototype_fig File](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/High_Fidelity_Prototype)
 - [x] add [Formative Usability Questionnaire](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/High_Fidelity_Prototype)
@@ -40,7 +40,7 @@ StoriesOnBoard, Figma, GitHub, WordPress
     ├── StoryMaps                 # User Story Maps 
     ├── customer_notes            # the feedback from our meeting with the customer
     ├── docs                      # initial diagrams and chart document from activity #1
-    ├── lo_fi                     # lo_fi prototyping from activity #2
+    ├── Low_Fidelity_Prototype    # lo_fi prototyping from activity #2
     ├── High_Fidelity_Prototype   # hi_fi prototyping from activity #3
     ├── Backup_file               # Wordpress backup file
     └── README.md
