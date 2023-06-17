@@ -29,7 +29,7 @@ Our ENSE 271 group project involves improving the Saskatchewan Career Developmen
 - [x] add [Discussion & Analysis of Usability Data](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
 - [x] add [Project Report](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/docs)
 - [x] add [Customer Feedback from 4th check-in](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/customer_notes)
-- [x] add  [WordPress Backup File - databass only](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Backup) 
+- [x] add  [WordPress Backup File - databass only](https://github.com/Euphorbias-ENSE-271-Github/ENSE271_SKCDA_Euphorbias-2023SS/tree/main/Backup_file)
 
 
 ## Technology
