@@ -42,6 +42,6 @@ StoriesOnBoard, Figma, GitHub, WordPress
     ├── docs                      # initial diagrams and chart document from activity #1
     ├── lo_fi                     # lo_fi prototyping from activity #2
     ├── High_Fidelity_Prototype   # hi_fi prototyping from activity #3
-    ├── Backup                    # Wordpress backup file
+    ├── Backup_file               # Wordpress backup file
     └── README.md
 
